@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/shackley/swift-blade",
       "state" : {
-        "revision" : "b31eaa7fbd6424be52404e1de8949b2cfc46502c",
-        "version" : "0.1.0"
+        "revision" : "2e90f63f2140e7304e853b428f53bdfb1e996d75",
+        "version" : "0.1.2"
       }
     },
     {

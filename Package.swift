@@ -8,7 +8,7 @@ let package = Package(
     name: "swift-blade-example",
     platforms: [
         .macOS(.v13),
-        .iOS(.v13),
+        .iOS(.v16),
         .tvOS(.v13),
         .watchOS(.v6),
         .macCatalyst(.v13)
@@ -20,7 +20,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/shackley/swift-blade", from: "0.1.0"),
+        .package(url: "https://github.com/shackley/swift-blade", from: "0.1.2"),
     ],
     targets: [
         .executableTarget(

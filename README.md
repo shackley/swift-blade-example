@@ -1,6 +1,6 @@
 # swift-blade-example
 
-An example app built using [swift-blade](https://github.com/shackley/swift-blade) for dependency injection 
+An example app built using [swift-blade](https://github.com/shackley/swift-blade) for dependency injection.
 
 ```mermaid
 graph LR;
